@@ -1,10 +1,7 @@
 # AppStoreLikeExampleSwift3
 Using CollectionView, UITableView, ScrollView, Same As AppStore
 
-![alt tag](https://github.com/IosPower/AppStoreLikeExampleSwift3/blob/master/Simulator%20Screen%20Shot%2015-Feb-2017%2C%205.11.46%20PM.png)
-
-![alt tag](https://github.com/IosPower/AppStoreLikeExampleSwift3/blob/master/Simulator%20Screen%20Shot%2003-Mar-2017%2C%206.21.37%20PM.png)
-
+![alt tag](https://github.com/IosPower/AppStoreLikeExampleSwift3/blob/master/Simulator%20Screen%20Shot%2003-Mar-2017%2C%206.21.27%20PM.jpg)
 
 
 
